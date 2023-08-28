@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 13 23:51:29 2023
-
-@author: Thanasis Moustakas
-"""
 
 import math
 import numpy as nm
