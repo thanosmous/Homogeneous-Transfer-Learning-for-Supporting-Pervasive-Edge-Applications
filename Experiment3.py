@@ -1,3 +1,5 @@
+" Files 400-600 and 400-1100 are required for this experiment"
+
 import numpy as np
 import pandas as pd 
 from sklearn.preprocessing import StandardScaler
